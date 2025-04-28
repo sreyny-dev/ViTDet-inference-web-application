@@ -106,7 +106,7 @@ pip install -r requirements.txt
 ```bash
 conda activate openmmlab      #name can be changed
 ```
-
+- Run
 ```bash
 python app.py
 ```
