@@ -40,9 +40,9 @@ mmdetection/
 │   ├── signup.html
 │   └── index.html
 ├── demo/
-│   └── data/
+│   └── data/  #the uploaded image stored here
 ├── output/
-│   └── vis/
+│   └── vis/        #inferenced image store here, load back frontend
 ├── projects/
 │   └── ViTDet/
 │       └── configs/
