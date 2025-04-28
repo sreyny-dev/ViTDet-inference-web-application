@@ -165,5 +165,3 @@ Navigate to `http://localhost:5000` in your web browser.
 ## Contact
 
 THA SREYNY - 12113053@mail.sustech.edu.cn
-
-**Project Link**: [Your Project Repository URL]
