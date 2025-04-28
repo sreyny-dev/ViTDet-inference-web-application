@@ -82,7 +82,7 @@ follow the instruction above for where to place app.py and templates folders.
 
 ### 2. Set up environment:
 
-      Set up enronment based on MMdetection instruction. I have provided the compatitbae python, mmcv and torch versions. Note that I created environemnt using conda.
+Set up enronment based on MMdetection instruction. I have provided the compatitbae python, mmcv and torch versions. Note that I created environemnt using conda.
 
 ### 3. Install dependencies:
 ```bash
